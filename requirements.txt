@@ -1,0 +1,11 @@
+# ABSA-Insights — pinned dependencies (Python 3.10+)
+pandas==3.0.6
+vaderSentiment==3.3.2
+plotly==7.1.0
+matplotlib==3.11.2
+seaborn==0.13.2
+python-dotenv==1.0.1
+requests==2.34.2
+streamlit==1.65.0
+tabulate==0.10.0     # pandas .to_markdown() for evaluation tables
+pytest==9.1.1        # test suite (dev)

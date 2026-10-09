@@ -1,0 +1,105 @@
+{
+  "n_reviews": 1200,
+  "dropped_rows": 0,
+  "sentiment_distribution": {
+    "Negative": 236,
+    "Positive": 618,
+    "Neutral": 346
+  },
+  "coverage": {
+    "assigned": 1132,
+    "unassigned": 68,
+    "coverage_pct": 94.3
+  },
+  "aspect_table": [
+    {
+      "aspect": "delivery",
+      "Positive": 188,
+      "Neutral": 239,
+      "Negative": 24,
+      "total": 451
+    },
+    {
+      "aspect": "quality",
+      "Positive": 120,
+      "Neutral": 79,
+      "Negative": 119,
+      "total": 318
+    },
+    {
+      "aspect": "price",
+      "Positive": 127,
+      "Neutral": 114,
+      "Negative": 42,
+      "total": 283
+    },
+    {
+      "aspect": "product accuracy",
+      "Positive": 68,
+      "Neutral": 116,
+      "Negative": 80,
+      "total": 264
+    },
+    {
+      "aspect": "customer service",
+      "Positive": 108,
+      "Neutral": 87,
+      "Negative": 40,
+      "total": 235
+    },
+    {
+      "aspect": "packaging",
+      "Positive": 100,
+      "Neutral": 34,
+      "Negative": 52,
+      "total": 186
+    },
+    {
+      "aspect": "returns & refunds",
+      "Positive": 64,
+      "Neutral": 60,
+      "Negative": 55,
+      "total": 179
+    }
+  ],
+  "emerging_aspects": [
+    [
+      "impressed start",
+      125
+    ],
+    [
+      "start finish",
+      125
+    ],
+    [
+      "five stars",
+      121
+    ],
+    [
+      "great experience",
+      114
+    ],
+    [
+      "experience overall",
+      114
+    ],
+    [
+      "lekker purchase",
+      105
+    ],
+    [
+      "order again",
+      100
+    ],
+    [
+      "happy customer",
+      93
+    ]
+  ],
+  "figures": [
+    "sentiment_pie.png",
+    "sentiment_bar.png",
+    "aspect_stacked.png",
+    "word_freq.png"
+  ]
+}
