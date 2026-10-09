@@ -1,5 +1,10 @@
 # ABSA-Insights — Aspect-Based Sentiment Analysis & Data Insights Tool
 
+> **Live web tool:** https://tshepisofrominnostation.github.io/absa-insights/
+> — the full dashboard as a client-side web app: load the bundled 1,200-review
+> sample, paste your own reviews, or upload a CSV, and watch the (aspect,
+> sentiment, evidence) triples build in real time.
+
 > Week 3 project, CAPACITI & Clickatell AI Bootcamp — "Sentiment Analysis & Data
 > Insights" sprint, by **Freddy (Tshepiso) Thosago**, Johannesburg, ZA.
 
